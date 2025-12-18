@@ -123,7 +123,7 @@ PercentText:GetPropertyChangedSignal("Text"):Connect(function()
 		if MiniGui then MiniGui:Destroy() end
 
 		pcall(function()
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-IDP/testforlib/refs/heads/main/lib2"))()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-IDP/forvideo/refs/heads/main/forvideoupd"))()
 		end)
 	end
 end)
